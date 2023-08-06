@@ -1,0 +1,11 @@
+total probabilities = 1
+P(Heads) + P(Tails) = 1
+p(A) = 1 - p(>A)
+p(H,H) = p(H).p(H)
+p(H,T) = p(H).p(T)
+p(Exactly one H)=p(H,T)+p(T,H)
+
+Summary:
+-Probability of event = P
+-Probability of opposite event = 1 – P
+-Probability of composite event = P*P*P…*P
