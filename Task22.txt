@@ -1,0 +1,23 @@
+>>Binomial distributions:
+The binomial distribution is a probability distribution
+that describes the number of successes in a fixed number of independent Bernoulli trials,
+where each trial has the same probability of success.
+
+
+>>the number of ways to choose k elements from a set of 
+n elements without regard to order, can be expressed using factorials as follows:
+p(k)= n!\k!(n−k)!
+
+
+>>​For example, if you have
+n=5 trials and you want to calculate 
+ the calculation is straightforward:
+p(k)=5!\2!⋅(5−2)!=5!\2!⋅3!=5⋅4\2⋅1=10
+
+>>Binomial distributions are commonly used in various fields to model discrete events with two possible outcomes,
+such as:
+-Coin flipping (head or tail).
+-Quality control and manufacturing processes.
+-Binary classification problems in statistics and machine learning.
+-Medical trials (e.g., drug efficacy studies).
+-Election prediction (e.g., predicting the number of votes for a candidate).
