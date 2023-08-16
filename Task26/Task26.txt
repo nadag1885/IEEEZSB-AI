@@ -1,0 +1,52 @@
+linear algebra
+mathematical discipline that deals with vectors and matrices and,
+more generally, with vector spaces and linear transformations.
+
+Vector Operations:
+Addition: Vectors can be added component-wise.
+Scalar Multiplication: Vectors can be multiplied by scalars, changing their magnitude.
+Dot Product: Measures similarity or alignment between vectors.
+Cross Product: Generates a new vector perpendicular to the original vectors.
+
+cosine rule:
+For any triangle with sides of lengths 
+a, b, and c, and an angle θ opposite the side of length c, the cosine rule states:
+c^2=a^2+b^2-2abcos(θ)
+
+Vector Spaces: Sets of vectors that satisfy specific properties (closure, associativity, etc.)
+Have a basis and dimension.
+
+matrix :
+A matrix is a rectangular array of numbers (scalars) arranged in rows and columns. An m×n matrix has m rows and n columns.
+A matrix transformation takes points or vectors from one space and maps them to another space using linear operations
+
+Types of matrix transformation:
+-Translation Transformation
+-Scaling Transformation
+-Rotation Transformation
+-Shearing Transformation
+-Reflection Transformation
+
+
+The Einstein summation convention is a notation used in mathematics, particularly in the context of linear algebra and tensor calculus, to simplify the representation of repeated indices in algebraic expressions involving summation. It was developed by physicist Albert Einstein to streamline and make expressions involving vectors, matrices, and tensors more concise.
+
+In the Einstein summation convention:
+
+Repeated Indices: When an index appears twice in a term, once in a superscript position (upper index) and once in a subscript position (lower index),
+it implies summation over all possible values of that index. This means that the expression should be summed over all values of the repeated index.
+
+Summation Symbol: The summation symbol Σ is usually omitted, as the convention implies that summation is taking place
+
+The Gram-Schmidt process:
+The Gram-Schmidt process is a method used in linear algebra to transform a linearly independent set of vectors into an orthogonal or orthonormal set.
+This process is valuable for constructing orthogonal bases and solving problems involving inner products and orthogonal projections
+
+>>Eigenvalues and eigenvectors are fundamental linear algebra concepts.
+ Eigenvalues scale vectors, eigenvectors show unchanging directions.
+ They're key in diverse fields for matrix decomposition, equations, and understanding systems.
+
+*The "span" of v and w is the set of all their linear combinations.
+*a transformation is linear if it has two properties:
+-Lines remain lines
+-Origin remains fixed
+
